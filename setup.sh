@@ -41,3 +41,4 @@ Rscript -e "devtools::install_github('pmartinezarbizu/pairwiseAdonis/pairwiseAdo
 
 echo "✅ Metadoon environment setup complete."
 echo "👉 To start using the tool, please run: conda activate metadoon"
+#endofscript
